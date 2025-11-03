@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312336113795",
+    "project_id": "my-ecommerce-app-ivy",
+    "storage_bucket": "my-ecommerce-app-ivy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312336113795:android:17970ddd895ff6a81e7bb6",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmkySkRgC6puYCT6JYKy4WgWKaO_HQwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
